@@ -1,4 +1,4 @@
-# COVID-19 Death Count by State
+# COVID-19 Death Count by Largest Populations State
 ## Nonparametric K-sample Test
 
 Analyzing COVID-19 deaths by State to see if States (their infrastructures and response to COVID-19, resources, density, etc)
