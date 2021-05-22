@@ -33,4 +33,4 @@ person is of dying from COVID-19, for a given sex, and whether sex matters for h
 dying from COVID-19 for a given age
 
 ### Source:
- COVIDB.csv Data from CDC Provisional Death Counts by State:
+ COVIDB.csv Data from CDC Provisional Death Counts by Age, Sex: https://data.cdc.gov/NCHS/Provisional-COVID-19-Death-Counts-by-Sex-Age-and-S/9bhg-hcku
