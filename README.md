@@ -16,7 +16,7 @@ which of the State methods of dealing with COVID 19’s effects would result in 
 states this will be even more impactful if we find some difference because then public policy can be tailored
 to more effectively reduce the number of deaths due to COVID-19.
 
-
+### Source: COVIDA.csv Data from CDC Provisional Death Counts by State: https://www.cdc.gov/nchs/nvss/vsrr/covid19/index.htm
 
 # Independence of Age and Sex for Number of Deaths due to COVID-19
 
@@ -30,5 +30,6 @@ are those 18 years and older who have died from COVID-19.
 Analysis of the independence of the variables Age and Sex regarding death as a result of COVID-19 has broader implications on whether age matters for how at risk a
 person is of dying from COVID-19, for a given sex, and whether sex matters for how at risk a person is of
 dying from COVID-19 for a given age
-# Source:
-Provisional Data on COVID-19 retrieved from CDC at https://www.cdc.gov/nchs/nvss/vsrr/covid19/index.htm
+
+### Source:
+ COVIDB.csv Data from CDC Provisional Death Counts by State:
