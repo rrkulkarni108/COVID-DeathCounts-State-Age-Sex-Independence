@@ -1,0 +1,385 @@
+Year,Month,Sex,Age_Group,Death
+2020,3,Male,Under 1 year,2
+2020,3,Male,0-17 years,6
+2020,3,Male,1-4 years,1
+2020,3,Male,5-14 years,2
+2020,3,Male,15-24 years,11
+2020,3,Male,18-29 years,36
+2020,3,Male,25-34 years,70
+2020,3,Male,30-39 years,123
+2020,3,Male,35-44 years,170
+2020,3,Male,40-49 years,249
+2020,3,Male,45-54 years,375
+2020,3,Male,50-64 years,933
+2020,3,Male,55-64 years,716
+2020,3,Male,65-74 years,1037
+2020,3,Male,75-84 years,1105
+2020,3,Male,85 years and over,836
+2020,3,Female,Under 1 year,1
+2020,3,Female,0-17 years,1
+2020,3,Female,1-4 years,0
+2020,3,Female,5-14 years,0
+2020,3,Female,15-24 years,2
+2020,3,Female,18-29 years,11
+2020,3,Female,25-34 years,30
+2020,3,Female,30-39 years,41
+2020,3,Female,35-44 years,65
+2020,3,Female,40-49 years,95
+2020,3,Female,45-54 years,145
+2020,3,Female,50-64 years,415
+2020,3,Female,55-64 years,320
+2020,3,Female,65-74 years,579
+2020,3,Female,75-84 years,759
+2020,3,Female,85 years and over,855
+2020,4,Male,Under 1 year,2
+2020,4,Male,0-17 years,7
+2020,4,Male,1-4 years,0
+2020,4,Male,5-14 years,3
+2020,4,Male,15-24 years,55
+2020,4,Male,18-29 years,154
+2020,4,Male,25-34 years,295
+2020,4,Male,30-39 years,519
+2020,4,Male,35-44 years,801
+2020,4,Male,40-49 years,1341
+2020,4,Male,45-54 years,2252
+2020,4,Male,50-64 years,6658
+2020,4,Male,55-64 years,5271
+2020,4,Male,65-74 years,8687
+2020,4,Male,75-84 years,9791
+2020,4,Male,85 years and over,8541
+2020,4,Female,Under 1 year,2
+2020,4,Female,0-17 years,9
+2020,4,Female,1-4 years,1
+2020,4,Female,5-14 years,2
+2020,4,Female,15-24 years,28
+2020,4,Female,18-29 years,76
+2020,4,Female,25-34 years,135
+2020,4,Female,30-39 years,196
+2020,4,Female,35-44 years,309
+2020,4,Female,40-49 years,555
+2020,4,Female,45-54 years,926
+2020,4,Female,50-64 years,3227
+2020,4,Female,55-64 years,2660
+2020,4,Female,65-74 years,5058
+2020,4,Female,75-84 years,7833
+2020,4,Female,85 years and over,12526
+2020,5,Male,Under 1 year,1
+2020,5,Male,0-17 years,13
+2020,5,Male,1-4 years,2
+2020,5,Male,5-14 years,8
+2020,5,Male,15-24 years,31
+2020,5,Male,18-29 years,93
+2020,5,Male,25-34 years,171
+2020,5,Male,30-39 years,272
+2020,5,Male,35-44 years,434
+2020,5,Male,40-49 years,728
+2020,5,Male,45-54 years,1179
+2020,5,Male,50-64 years,3578
+2020,5,Male,55-64 years,2858
+2020,5,Male,65-74 years,4671
+2020,5,Male,75-84 years,5148
+2020,5,Male,85 years and over,4856
+2020,5,Female,Under 1 year,2
+2020,5,Female,0-17 years,6
+2020,5,Female,1-4 years,2
+2020,5,Female,5-14 years,0
+2020,5,Female,15-24 years,19
+2020,5,Female,18-29 years,38
+2020,5,Female,25-34 years,68
+2020,5,Female,30-39 years,113
+2020,5,Female,35-44 years,181
+2020,5,Female,40-49 years,308
+2020,5,Female,45-54 years,527
+2020,5,Female,50-64 years,1838
+2020,5,Female,55-64 years,1504
+2020,5,Female,65-74 years,3066
+2020,5,Female,75-84 years,4617
+2020,5,Female,85 years and over,8822
+2020,6,Male,Under 1 year,5
+2020,6,Male,0-17 years,11
+2020,6,Male,1-4 years,1
+2020,6,Male,5-14 years,1
+2020,6,Male,15-24 years,25
+2020,6,Male,18-29 years,62
+2020,6,Male,25-34 years,117
+2020,6,Male,30-39 years,192
+2020,6,Male,35-44 years,287
+2020,6,Male,40-49 years,465
+2020,6,Male,45-54 years,757
+2020,6,Male,50-64 years,1996
+2020,6,Male,55-64 years,1533
+2020,6,Male,65-74 years,2292
+2020,6,Male,75-84 years,2317
+2020,6,Male,85 years and over,2037
+2020,6,Female,Under 1 year,1
+2020,6,Female,0-17 years,6
+2020,6,Female,1-4 years,3
+2020,6,Female,5-14 years,1
+2020,6,Female,15-24 years,22
+2020,6,Female,18-29 years,44
+2020,6,Female,25-34 years,67
+2020,6,Female,30-39 years,104
+2020,6,Female,35-44 years,145
+2020,6,Female,40-49 years,220
+2020,6,Female,45-54 years,381
+2020,6,Female,50-64 years,1089
+2020,6,Female,55-64 years,843
+2020,6,Female,65-74 years,1471
+2020,6,Female,75-84 years,2158
+2020,6,Female,85 years and over,3443
+2020,7,Male,Under 1 year,5
+2020,7,Male,0-17 years,18
+2020,7,Male,1-4 years,1
+2020,7,Male,5-14 years,9
+2020,7,Male,15-24 years,59
+2020,7,Male,18-29 years,140
+2020,7,Male,25-34 years,224
+2020,7,Male,30-39 years,374
+2020,7,Male,35-44 years,595
+2020,7,Male,40-49 years,885
+2020,7,Male,45-54 years,1305
+2020,7,Male,50-64 years,3630
+2020,7,Male,55-64 years,2849
+2020,7,Male,65-74 years,4260
+2020,7,Male,75-84 years,4568
+2020,7,Male,85 years and over,3476
+2020,7,Female,Under 1 year,1
+2020,7,Female,0-17 years,11
+2020,7,Female,1-4 years,0
+2020,7,Female,5-14 years,5
+2020,7,Female,15-24 years,40
+2020,7,Female,18-29 years,88
+2020,7,Female,25-34 years,126
+2020,7,Female,30-39 years,189
+2020,7,Female,35-44 years,303
+2020,7,Female,40-49 years,443
+2020,7,Female,45-54 years,680
+2020,7,Female,50-64 years,2042
+2020,7,Female,55-64 years,1618
+2020,7,Female,65-74 years,2767
+2020,7,Female,75-84 years,3453
+2020,7,Female,85 years and over,4623
+2020,8,Male,Under 1 year,1
+2020,8,Male,0-17 years,8
+2020,8,Male,1-4 years,3
+2020,8,Male,5-14 years,2
+2020,8,Male,15-24 years,43
+2020,8,Male,18-29 years,85
+2020,8,Male,25-34 years,135
+2020,8,Male,30-39 years,237
+2020,8,Male,35-44 years,416
+2020,8,Male,40-49 years,733
+2020,8,Male,45-54 years,1123
+2020,8,Male,50-64 years,3184
+2020,8,Male,55-64 years,2524
+2020,8,Male,65-74 years,4139
+2020,8,Male,75-84 years,4460
+2020,8,Male,85 years and over,3386
+2020,8,Female,Under 1 year,1
+2020,8,Female,0-17 years,8
+2020,8,Female,1-4 years,2
+2020,8,Female,5-14 years,3
+2020,8,Female,15-24 years,27
+2020,8,Female,18-29 years,52
+2020,8,Female,25-34 years,91
+2020,8,Female,30-39 years,144
+2020,8,Female,35-44 years,226
+2020,8,Female,40-49 years,383
+2020,8,Female,45-54 years,590
+2020,8,Female,50-64 years,1933
+2020,8,Female,55-64 years,1580
+2020,8,Female,65-74 years,2726
+2020,8,Female,75-84 years,3577
+2020,8,Female,85 years and over,4650
+2020,9,Male,Under 1 year,4
+2020,9,Male,0-17 years,9
+2020,9,Male,1-4 years,0
+2020,9,Male,5-14 years,1
+2020,9,Male,15-24 years,21
+2020,9,Male,18-29 years,52
+2020,9,Male,25-34 years,95
+2020,9,Male,30-39 years,140
+2020,9,Male,35-44 years,218
+2020,9,Male,40-49 years,390
+2020,9,Male,45-54 years,625
+2020,9,Male,50-64 years,1927
+2020,9,Male,55-64 years,1554
+2020,9,Male,65-74 years,2542
+2020,9,Male,75-84 years,2916
+2020,9,Male,85 years and over,2267
+2020,9,Female,Under 1 year,1
+2020,9,Female,0-17 years,4
+2020,9,Female,1-4 years,0
+2020,9,Female,5-14 years,2
+2020,9,Female,15-24 years,17
+2020,9,Female,18-29 years,34
+2020,9,Female,25-34 years,57
+2020,9,Female,30-39 years,92
+2020,9,Female,35-44 years,146
+2020,9,Female,40-49 years,230
+2020,9,Female,45-54 years,343
+2020,9,Female,50-64 years,1101
+2020,9,Female,55-64 years,895
+2020,9,Female,65-74 years,1781
+2020,9,Female,75-84 years,2304
+2020,9,Female,85 years and over,3186
+2020,10,Male,Under 1 year,3
+2020,10,Male,0-17 years,6
+2020,10,Male,1-4 years,0
+2020,10,Male,5-14 years,3
+2020,10,Male,15-24 years,19
+2020,10,Male,18-29 years,41
+2020,10,Male,25-34 years,77
+2020,10,Male,30-39 years,148
+2020,10,Male,35-44 years,231
+2020,10,Male,40-49 years,397
+2020,10,Male,45-54 years,667
+2020,10,Male,50-64 years,2097
+2020,10,Male,55-64 years,1689
+2020,10,Male,65-74 years,3135
+2020,10,Male,75-84 years,3923
+2020,10,Male,85 years and over,3450
+2020,10,Female,Under 1 year,1
+2020,10,Female,0-17 years,7
+2020,10,Female,1-4 years,0
+2020,10,Female,5-14 years,3
+2020,10,Female,15-24 years,14
+2020,10,Female,18-29 years,37
+2020,10,Female,25-34 years,63
+2020,10,Female,30-39 years,91
+2020,10,Female,35-44 years,152
+2020,10,Female,40-49 years,229
+2020,10,Female,45-54 years,336
+2020,10,Female,50-64 years,1194
+2020,10,Female,55-64 years,989
+2020,10,Female,65-74 years,2090
+2020,10,Female,75-84 years,3076
+2020,10,Female,85 years and over,4502
+2020,11,Male,Under 1 year,3
+2020,11,Male,0-17 years,13
+2020,11,Male,1-4 years,2
+2020,11,Male,5-14 years,4
+2020,11,Male,15-24 years,28
+2020,11,Male,18-29 years,76
+2020,11,Male,25-34 years,154
+2020,11,Male,30-39 years,274
+2020,11,Male,35-44 years,443
+2020,11,Male,40-49 years,733
+2020,11,Male,45-54 years,1214
+2020,11,Male,50-64 years,4031
+2020,11,Male,55-64 years,3279
+2020,11,Male,65-74 years,6594
+2020,11,Male,75-84 years,8749
+2020,11,Male,85 years and over,7775
+2020,11,Female,Under 1 year,1
+2020,11,Female,0-17 years,11
+2020,11,Female,1-4 years,0
+2020,11,Female,5-14 years,6
+2020,11,Female,15-24 years,25
+2020,11,Female,18-29 years,61
+2020,11,Female,25-34 years,108
+2020,11,Female,30-39 years,146
+2020,11,Female,35-44 years,230
+2020,11,Female,40-49 years,396
+2020,11,Female,45-54 years,661
+2020,11,Female,50-64 years,2373
+2020,11,Female,55-64 years,1956
+2020,11,Female,65-74 years,4046
+2020,11,Female,75-84 years,6427
+2020,11,Female,85 years and over,9717
+2020,12,Male,Under 1 year,3
+2020,12,Male,0-17 years,14
+2020,12,Male,1-4 years,4
+2020,12,Male,5-14 years,4
+2020,12,Male,15-24 years,66
+2020,12,Male,18-29 years,153
+2020,12,Male,25-34 years,263
+2020,12,Male,30-39 years,464
+2020,12,Male,35-44 years,774
+2020,12,Male,40-49 years,1411
+2020,12,Male,45-54 years,2475
+2020,12,Male,50-64 years,7906
+2020,12,Male,55-64 years,6359
+2020,12,Male,65-74 years,12006
+2020,12,Male,75-84 years,15263
+2020,12,Male,85 years and over,13594
+2020,12,Female,Under 1 year,2
+2020,12,Female,0-17 years,11
+2020,12,Female,1-4 years,1
+2020,12,Female,5-14 years,6
+2020,12,Female,15-24 years,33
+2020,12,Female,18-29 years,85
+2020,12,Female,25-34 years,169
+2020,12,Female,30-39 years,287
+2020,12,Female,35-44 years,465
+2020,12,Female,40-49 years,819
+2020,12,Female,45-54 years,1276
+2020,12,Female,50-64 years,4339
+2020,12,Female,55-64 years,3589
+2020,12,Female,65-74 years,7519
+2020,12,Female,75-84 years,11571
+2020,12,Female,85 years and over,17786
+2021,1,Male,Under 1 year,1
+2021,1,Male,0-17 years,15
+2021,1,Male,1-4 years,1
+2021,1,Male,5-14 years,5
+2021,1,Male,15-24 years,42
+2021,1,Male,18-29 years,130
+2021,1,Male,25-34 years,272
+2021,1,Male,30-39 years,459
+2021,1,Male,35-44 years,760
+2021,1,Male,40-49 years,1330
+2021,1,Male,45-54 years,2332
+2021,1,Male,50-64 years,7627
+2021,1,Male,55-64 years,6148
+2021,1,Male,65-74 years,11459
+2021,1,Male,75-84 years,13872
+2021,1,Male,85 years and over,11269
+2021,1,Female,Under 1 year,2
+2021,1,Female,0-17 years,8
+2021,1,Female,1-4 years,0
+2021,1,Female,5-14 years,4
+2021,1,Female,15-24 years,39
+2021,1,Female,18-29 years,95
+2021,1,Female,25-34 years,167
+2021,1,Female,30-39 years,282
+2021,1,Female,35-44 years,433
+2021,1,Female,40-49 years,744
+2021,1,Female,45-54 years,1254
+2021,1,Female,50-64 years,4404
+2021,1,Female,55-64 years,3634
+2021,1,Female,65-74 years,7348
+2021,1,Female,75-84 years,10493
+2021,1,Female,85 years and over,14473
+2021,2,Male,Under 1 year,0
+2021,2,Male,0-17 years,0
+2021,2,Male,1-4 years,0
+2021,2,Male,5-14 years,0
+2021,2,Male,15-24 years,9
+2021,2,Male,18-29 years,22
+2021,2,Male,25-34 years,54
+2021,2,Male,30-39 years,90
+2021,2,Male,35-44 years,121
+2021,2,Male,40-49 years,238
+2021,2,Male,45-54 years,491
+2021,2,Male,50-64 years,1692
+2021,2,Male,55-64 years,1367
+2021,2,Male,65-74 years,2587
+2021,2,Male,75-84 years,3014
+2021,2,Male,85 years and over,2452
+2021,2,Female,Under 1 year,0
+2021,2,Female,0-17 years,2
+2021,2,Female,1-4 years,0
+2021,2,Female,5-14 years,1
+2021,2,Female,15-24 years,9
+2021,2,Female,18-29 years,19
+2021,2,Female,25-34 years,29
+2021,2,Female,30-39 years,51
+2021,2,Female,35-44 years,95
+2021,2,Female,40-49 years,160
+2021,2,Female,45-54 years,253
+2021,2,Female,50-64 years,938
+2021,2,Female,55-64 years,783
+2021,2,Female,65-74 years,1579
+2021,2,Female,75-84 years,2158
+2021,2,Female,85 years and over,2819

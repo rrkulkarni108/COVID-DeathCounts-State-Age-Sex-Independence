@@ -1,0 +1,293 @@
+Year,Month,State,Death
+2020,3,Alabama,48
+2020,4,Alabama,337
+2020,9,Alabama,562
+2020,10,Alaska,32
+2020,11,Alaska,69
+2021,1,Alaska,28
+2020,3,Arizona,63
+2020,9,Arizona,271
+2020,10,Arizona,258
+2020,11,Arizona,854
+2021,2,Arizona,824
+2020,6,Arkansas,169
+2020,3,California,277
+2020,4,California,2013
+2020,9,California,2062
+2020,12,California,12675
+2020,3,Colorado,105
+2020,5,Colorado,465
+2020,6,Colorado,184
+2020,7,Colorado,152
+2020,8,Colorado,121
+2020,10,Colorado,250
+2020,11,Colorado,1117
+2021,2,Colorado,135
+2020,3,Connecticut,123
+2020,6,Connecticut,282
+2020,7,Connecticut,77
+2020,9,Connecticut,43
+2020,10,Connecticut,142
+2020,11,Connecticut,483
+2020,12,Connecticut,1046
+2021,1,Connecticut,639
+2021,2,Connecticut,24
+2020,5,Delaware,264
+2020,6,Delaware,61
+2020,7,Delaware,25
+2020,9,Delaware,23
+2020,10,Delaware,79
+2020,11,Delaware,82
+2020,12,Delaware,250
+2020,6,District of Columbia,116
+2020,7,District of Columbia,43
+2020,8,District of Columbia,37
+2020,9,District of Columbia,27
+2020,10,District of Columbia,37
+2020,12,District of Columbia,133
+2021,1,District of Columbia,133
+2021,2,District of Columbia,39
+2020,3,Florida,190
+2020,4,Florida,1308
+2020,5,Florida,1131
+2020,7,Florida,4974
+2020,8,Florida,4771
+2020,11,Florida,1759
+2020,12,Florida,3122
+2020,3,Georgia,217
+2020,4,Georgia,1074
+2021,2,Georgia,596
+2020,8,Hawaii,74
+2020,9,Hawaii,128
+2020,11,Hawaii,30
+2020,12,Hawaii,34
+2021,1,Hawaii,31
+2020,4,Idaho,55
+2020,7,Idaho,129
+2020,8,Idaho,179
+2020,9,Idaho,114
+2020,11,Idaho,387
+2021,2,Idaho,48
+2020,3,Illinois,193
+2020,4,Illinois,2446
+2020,6,Illinois,1157
+2020,8,Illinois,486
+2020,11,Illinois,3321
+2021,2,Illinois,585
+2020,3,Indiana,125
+2020,4,Indiana,1132
+2020,6,Indiana,459
+2020,8,Indiana,384
+2020,9,Indiana,411
+2020,10,Indiana,877
+2021,2,Indiana,132
+2020,5,Iowa,416
+2020,6,Iowa,158
+2020,7,Iowa,175
+2020,8,Iowa,273
+2020,9,Iowa,250
+2021,2,Iowa,130
+2020,6,Kansas,66
+2020,7,Kansas,115
+2020,8,Kansas,184
+2020,9,Kansas,230
+2020,12,Kansas,1324
+2021,1,Kansas,844
+2021,2,Kansas,142
+2020,3,Kentucky,28
+2020,4,Kentucky,246
+2020,5,Kentucky,224
+2020,3,Louisiana,394
+2020,7,Louisiana,763
+2020,8,Louisiana,882
+2020,10,Louisiana,340
+2021,2,Louisiana,85
+2020,11,Maine,87
+2021,1,Maine,231
+2021,2,Maine,59
+2020,3,Maryland,47
+2020,4,Maryland,1279
+2020,8,Maryland,274
+2020,9,Maryland,198
+2021,2,Maryland,402
+2020,3,Massachusetts,125
+2020,4,Massachusetts,3924
+2020,8,Massachusetts,117
+2020,9,Massachusetts,101
+2020,10,Massachusetts,197
+2021,2,Massachusetts,403
+2020,3,Michigan,493
+2020,4,Michigan,3618
+2020,6,Michigan,295
+2020,7,Michigan,187
+2020,8,Michigan,242
+2020,9,Michigan,227
+2021,1,Michigan,1546
+2021,2,Michigan,294
+2020,7,Minnesota,154
+2020,8,Minnesota,213
+2020,10,Minnesota,492
+2021,2,Minnesota,138
+2020,3,Mississippi,33
+2020,7,Mississippi,667
+2020,10,Mississippi,363
+2020,3,Missouri,32
+2020,9,Missouri,664
+2021,2,Missouri,253
+2020,8,Montana,49
+2020,9,Montana,93
+2020,10,Montana,279
+2020,11,Montana,405
+2020,12,Montana,373
+2021,1,Montana,148
+2021,2,Montana,19
+2020,5,Nebraska,111
+2020,6,Nebraska,92
+2020,7,Nebraska,48
+2020,8,Nebraska,101
+2020,9,Nebraska,115
+2020,10,Nebraska,281
+2020,12,Nebraska,619
+2021,2,Nebraska,45
+2020,3,Nevada,35
+2020,5,Nevada,162
+2020,7,Nevada,366
+2020,8,Nevada,474
+2020,9,Nevada,228
+2020,10,Nevada,179
+2020,11,Nevada,523
+2021,2,Nevada,286
+2020,5,New Hampshire,179
+2020,6,New Hampshire,100
+2020,11,New Hampshire,70
+2021,2,New Hampshire,53
+2020,3,New Jersey,682
+2020,4,New Jersey,8923
+2020,7,New Jersey,327
+2020,8,New Jersey,166
+2020,10,New Jersey,274
+2020,11,New Jersey,931
+2021,1,New Jersey,2237
+2021,2,New Jersey,719
+2020,4,New Mexico,160
+2020,6,New Mexico,126
+2020,7,New Mexico,163
+2020,8,New Mexico,96
+2020,9,New Mexico,52
+2020,12,New Mexico,957
+2021,2,New Mexico,82
+2020,3,New York,688
+2020,4,New York,7211
+2020,6,New York,627
+2020,7,New York,233
+2020,8,New York,142
+2020,3,New York City,2176
+2020,4,New York City,14897
+2020,9,New York City,98
+2020,11,New York City,288
+2021,2,New York City,1132
+2020,3,North Carolina,23
+2020,4,North Carolina,450
+2020,7,North Carolina,698
+2020,9,North Carolina,876
+2020,10,North Carolina,760
+2020,11,North Carolina,238
+2020,12,North Carolina,44
+2021,1,North Carolina,33
+2020,5,North Dakota,53
+2020,7,North Dakota,30
+2020,8,North Dakota,42
+2020,9,North Dakota,117
+2020,10,North Dakota,314
+2021,1,North Dakota,71
+2020,3,Ohio,97
+2020,4,Ohio,1046
+2020,10,Ohio,976
+2021,2,Ohio,391
+2020,3,Oklahoma,39
+2020,4,Oklahoma,208
+2021,2,Oklahoma,179
+2020,3,Oregon,27
+2020,7,Oregon,102
+2020,8,Oregon,129
+2020,9,Oregon,84
+2020,11,Oregon,310
+2021,2,Oregon,65
+2020,3,Pennsylvania,103
+2020,4,Pennsylvania,3497
+2020,7,Pennsylvania,498
+2020,8,Pennsylvania,505
+2020,9,Pennsylvania,416
+2020,10,Pennsylvania,719
+2020,5,Rhode Island,467
+2020,6,Rhode Island,148
+2020,7,Rhode Island,40
+2020,8,Rhode Island,45
+2020,9,Rhode Island,45
+2020,10,Rhode Island,97
+2020,11,Rhode Island,199
+2020,12,Rhode Island,507
+2021,2,Rhode Island,59
+2020,3,South Carolina,34
+2020,6,South Dakota,40
+2020,7,South Dakota,50
+2020,9,South Dakota,116
+2020,12,South Dakota,427
+2021,2,South Dakota,27
+2020,3,Tennessee,35
+2020,3,Texas,98
+2020,4,Texas,928
+2020,5,Texas,963
+2020,7,Texas,6954
+2020,10,Texas,2850
+2020,11,Texas,5167
+2020,12,Texas,7354
+2021,1,Texas,8352
+2020,5,Utah,70
+2020,6,Utah,68
+2020,7,Utah,147
+2020,8,Utah,94
+2020,9,Utah,77
+2020,11,Utah,406
+2020,12,Utah,516
+2021,1,Utah,377
+2021,2,Utah,70
+2020,8,Vermont,0
+2020,9,Vermont,0
+2020,10,Vermont,0
+2020,12,Vermont,67
+2020,3,Virginia,62
+2020,4,Virginia,751
+2020,6,Virginia,393
+2020,8,Virginia,472
+2021,2,Virginia,478
+2020,3,Washington,280
+2020,4,Washington,544
+2020,8,Washington,287
+2020,11,Washington,471
+2020,12,Washington,896
+2021,2,Washington,164
+2020,5,West Virginia,39
+2020,7,West Virginia,34
+2020,8,West Virginia,109
+2020,9,West Virginia,113
+2020,10,West Virginia,128
+2020,11,West Virginia,306
+2020,12,West Virginia,740
+2021,1,West Virginia,573
+2021,2,West Virginia,67
+2020,4,Wisconsin,311
+2020,6,Wisconsin,162
+2020,7,Wisconsin,164
+2020,8,Wisconsin,199
+2020,9,Wisconsin,218
+2020,10,Wisconsin,980
+2020,11,Wisconsin,2108
+2020,10,Wyoming,71
+2020,11,Wyoming,163
+2020,12,Wyoming,183
+2021,1,Wyoming,90
+2021,2,Wyoming,24
+2020,3,Puerto Rico,21
+2021,1,Puerto Rico,154
+2021,2,Puerto Rico,41
