@@ -1,5 +1,5 @@
 # COVID-19 Death Count by Largest Population States
-## Nonparametric K-sample Test
+## Non-Parametric K-sample Test
 
 Analyzing COVID-19 deaths by State to see if States (their infrastructures and response to COVID-19, resources, density, etc)
 have an effect on the number of deaths from COVID-19 using nonparametric Krustkal Wallis Test. 
@@ -20,7 +20,7 @@ to more effectively reduce the number of deaths due to COVID-19.
 
 # Independence of Age and Sex for Number of Deaths due to COVID-19
 
-## Nonparametric Permutation Test for Independence
+##  Non-Parametric Permutation Test for Independence
 
 
 Study was done to determine if Age and Sex are independent variables regarding COVID-19 related deaths.
