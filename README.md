@@ -16,7 +16,8 @@ which of the State methods of dealing with COVID 19’s effects would result in 
 states this will be even more impactful if we find some difference because then public policy can be tailored
 to more effectively reduce the number of deaths due to COVID-19.
 
-### Source: COVIDA.csv Data from CDC Provisional Death Counts by State: https://www.cdc.gov/nchs/nvss/vsrr/covid19/index.htm
+### Source: 
+COVIDA.csv Data from CDC Provisional Death Counts by State: https://www.cdc.gov/nchs/nvss/vsrr/covid19/index.htm
 
 # Independence of Age and Sex for Number of Deaths due to COVID-19
 
